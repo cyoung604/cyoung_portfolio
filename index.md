@@ -22,7 +22,7 @@ CAD + prototyping project focused on real constraints (tolerances, load paths, m
 [Project page](projects/mechanical-design.md)
 
 ## Resume & Links
-[Resume (PDF)](pdfs/CalebYoung_Resume .pdf)  
+[Resume (PDF)](pdfs/CalebYoung_Resume.pdf)  
 [GitHub](https://github.com/cyoung604)  
 [LinkedIn](https://www.linkedin.com/in/caleb-young-7583732b3)
 
