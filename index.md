@@ -20,8 +20,9 @@ I am a mechanical engineering student with hands-on experience in experimental f
 ![Mini40 mount](images/Mini40%20Force%20Sensor%20Mount.png)
 *Custom 3D-printed mount for Mini40 force sensor.*
 
-![MATLAB vorticty plots](images/vorticity%20plots.png)
-*Plots showing vorticity of an experiment at 4 different frames of motion.*
+![Vorticity plots](images/vorticityplots.png)
+*Instantaneous vorticity fields from PIV analysis.*
+
 
 
 
