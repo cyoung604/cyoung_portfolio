@@ -1,57 +1,30 @@
-# Caleb Young  
-# Mechanical Engineering Student | Experimental Fluids Research Lab | Mechanical Design
+# Caleb Young
+Mechanical Engineering Student | Experimental Fluids (PIV) | Mechanical Design
 
-## About Me
-I am a mechanical engineering student with hands-on experience in experimental fluid dynamics, mechanical design, and system/data analysis. I love working on projects that involve design and iteration.
+I build and test hardware, then turn experimental data into clear plots and design decisions (PIV, instrumentation, CAD, prototyping).
 
-# Projects
-# Experimental Fluids Research – PIV Analysis
-**Role:** Experimental design, data processing, analysis  
-- Designed and fabricated experimental fixtures  
-- Conducted PIV measurements and flow visualization  
-- Processed velocity and vorticity fields in MATLAB  
+**Core strengths:** PIV & flow visualization • MATLAB/Python analysis • CAD + 3D printing • Experimental fixtures & calibration
 
-![PIV setup](images/PIV%20Setup.png)
-*PIV experimental setup showing blade mounting and laser alignment.*
+## Projects
+### Experimental Fluids Research: PIV Analysis of Rowing Blades
+Designed fixtures, ran PIV experiments, and processed velocity/vorticity fields in MATLAB to compute circulation and compare configurations.
 
-![Force sensor mounted to blade](images/Force%20Sensor%20mounted%20to%20blade.png)
-*Mini40 force sensor integration on blade.*
+- Methods: PIV acquisition, calibration, vorticity + circulation post-processing
+- Outputs: vorticity fields, circulation vs time, documented research summary
 
-![Mini40 mount](images/Mini40%20Force%20Sensor%20Mount.png)
-*Custom 3D-printed mount for Mini40 force sensor.*
-
-![Vorticity plots](images/vorticityplots.png)
-
-*Instantaneous vorticity fields from PIV analysis.*
-
-![Circulation vs time](images/ciculation_data.png)
-*Circulation computed from PIV-derived velocity fields using trapezoidal integration in MATLAB.*
-
-
-
-
-[Download previous research summary (PDF)](pdfs/Previous%20Research%20Experience.pdf)
-
-[Download USP proposal (PDF)](pdfs/USP%20Proposal.pdf)
-
+[Project page](projects/piv.md)  
+[Previous research summary (PDF)](pdfs/Previous%20Research%20Experience.pdf)  
+[USP proposal (PDF)](pdfs/USP%20Proposal.pdf)
 
 ### Mechanical Design Project
-**Role:** CAD, fabrication, iteration  
-- Designed mechanical assemblies with real-world constraints  
-- Considered tolerances, load paths, and manufacturability  
+CAD + prototyping project focused on real constraints (tolerances, load paths, manufacturability).
 
----
+[Project page](projects/mechanical-design.md)
 
-## Skills
-- CAD: SolidWorks, Fusion 360  
-- Analysis: MATLAB, Python  
-- Manufacturing: 3D printing, prototyping  
-- Fluids: PIV, experimental methods
-
----
+## Resume & Links
+[Resume (PDF)](pdfs/CalebYoung_Resume.pdf)  
+[GitHub](https://github.com/cyoung604)  
+[LinkedIn](https://www.linkedin.com/in/caleb-young-7583732b3)
 
 ## Contact
-- Email: cj@teamyoung.net
-- Mobile: 360-901-6486
-- GitHub: https://github.com/cyoung604
-- LinkedIn: www.linkedin.com/in/caleb-young-7583732b3
+cj@teamyoung.net
