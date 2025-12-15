@@ -23,7 +23,7 @@ I am a mechanical engineering student with hands-on experience in experimental f
 ![Vorticity plots](images/vorticityplots.png)
 *Instantaneous vorticity fields from PIV analysis.*
 
-![Circulation vs time](images/circulation_data.png)
+![Circulation vs time](images/ciculation_data.png)
 *Circulation computed from PIV-derived velocity fields using trapezoidal integration in MATLAB.*
 
 
