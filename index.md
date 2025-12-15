@@ -1,7 +1,7 @@
 # Caleb Young
 Mechanical Engineering Student | Experimental Fluids (PIV) | Mechanical Design
 
-I build and test hardware, then turn experimental data into clear plots and design decisions (PIV, FLuid Visualization, instrumentation, CAD, prototyping).
+I build and test hardware, then turn experimental data into clear plots and design decisions (PIV, Flow Visualization, instrumentation, CAD, prototyping).
 
 **Core strengths:** PIV & flow visualization • MATLAB/Python analysis • CAD + 3D printing • Experimental fixtures & calibration
 
