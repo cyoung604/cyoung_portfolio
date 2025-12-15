@@ -21,6 +21,7 @@ I am a mechanical engineering student with hands-on experience in experimental f
 *Custom 3D-printed mount for Mini40 force sensor.*
 
 ![Vorticity plots](images/vorticityplots.png)
+
 *Instantaneous vorticity fields from PIV analysis.*
 
 ![Circulation vs time](images/ciculation_data.png)
