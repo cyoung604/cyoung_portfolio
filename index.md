@@ -11,7 +11,18 @@ I am a mechanical engineering student with hands-on experience in experimental f
 - Conducted PIV measurements and flow visualization  
 - Processed velocity and vorticity fields in MATLAB  
 
-*(Add images and plots here)*
+![PIV setup](images/PIV%20Setup.png)
+*PIV experimental setup showing blade mounting and laser alignment.*
+
+![Force sensor mounted to blade](images/Force%20Sensor%20mounted%20to%20blade.png)
+*Mini40 force sensor integration on blade.*
+
+![Mini40 mount](images/Mini40%20Force%20Sensor%20Mount.png)
+*Custom 3D-printed mount for Mini40 force sensor.*
+[Download previous research summary (PDF)](pdfs/Previous%20Research%20Experience.pdf)
+
+[Download USP proposal (PDF)](pdfs/USP%20Proposal.pdf)
+
 
 ### Mechanical Design Project
 **Role:** CAD, fabrication, iteration  
