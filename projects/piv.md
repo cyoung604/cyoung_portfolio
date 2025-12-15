@@ -31,7 +31,7 @@ Quantify how adding a RANDALLfoil blade attachment changes the surrounding flow 
 ![Vorticity plots](../images/vorticityplots.png)
 *Instantaneous vorticity fields from PIV analysis.*
 
-![Circulation vs time](../images/ciculation_data.png)
+![Circulation vs time](../images/circulation_data.png)
 *Circulation computed from PIV-derived velocity fields using trapezoidal integration in MATLAB.*
 
 ## Deliverables
