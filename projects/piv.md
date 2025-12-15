@@ -29,6 +29,7 @@ Quantify how adding a RANDALLfoil blade attachment changes the surrounding flow 
 *Custom 3D-printed mount for Mini40 force sensor.*
 
 ![Vorticity plots](../images/vorticityplots.png)
+
 *Instantaneous vorticity fields from PIV analysis.*
 
 ![Circulation vs time](../images/circulation_data.png)
