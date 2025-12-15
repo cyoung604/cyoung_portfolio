@@ -19,6 +19,8 @@ I am a mechanical engineering student with hands-on experience in experimental f
 
 ![Mini40 mount](images/Mini40%20Force%20Sensor%20Mount.png)
 *Custom 3D-printed mount for Mini40 force sensor.*
+
+
 [Download previous research summary (PDF)](pdfs/Previous%20Research%20Experience.pdf)
 
 [Download USP proposal (PDF)](pdfs/USP%20Proposal.pdf)
