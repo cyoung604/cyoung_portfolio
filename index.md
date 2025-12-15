@@ -16,11 +16,6 @@ Designed fixtures, ran PIV experiments, and processed velocity/vorticity fields 
 [Previous research summary (PDF)](pdfs/Previous%20Research%20Experience.pdf)  
 [USP proposal (PDF)](pdfs/USP%20Proposal.pdf)
 
-### Mechanical Design Project
-CAD + prototyping project focused on real constraints (tolerances, load paths, manufacturability).
-
-[Project page](projects/mechanical-design.md)
-
 ## Resume & Links
 [Resume (PDF)](pdfs/CalebYoung_Resume.pdf)  
 [GitHub](https://github.com/cyoung604)  
