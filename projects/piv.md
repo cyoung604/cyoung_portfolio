@@ -18,7 +18,7 @@ Quantify how adding a RANDALLfoil blade attachment changes the surrounding flow 
 - **Force/torque sensing:** mini 40 Force sensor
 - **Post-processing:** Velocity → vorticity fields; circulation computed from PIV-derived velocity fields (trapezoidal integration in MATLAB).
 
-## Setup/ Initial Results
+## Setup and Initial Results
 ![PIV setup](../images/PIV%20Setup.png)
 *PIV experimental setup showing blade mounting and laser alignment.*
 
