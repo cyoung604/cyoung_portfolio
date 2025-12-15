@@ -1,9 +1,7 @@
 # Experimental Fluids Research: PIV Analysis of Rowing Blades
 
 ## Objective
-## Objective
 Quantify how adding a RANDALLfoil blade attachment changes the surrounding flow structures, and correlate those flow features with measured forces/torques to evaluate the attachment’s claimed performance benefits.
-
 
 ## My Role
 - Experimental fixture design and fabrication
