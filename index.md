@@ -12,6 +12,14 @@ Designed fixtures, ran PIV experiments, and processed velocity/vorticity fields 
 - Methods: PIV acquisition, calibration, vorticity + circulation post-processing
 - Outputs: vorticity fields, circulation vs time, documented research summary
 
+### Experimental Fluids Research: Force analysis of Rowing Blades(ongoing)
+Designed fixtures, talk about using mini40 force sensor to get force data, randallfoil blade vs normal rowing blade
+calcualted force sensor on a cylinder rod in water first with graphs shown in projects,
+
+need to update methods below
+- Methods: PIV acquisition, calibration, vorticity + circulation post-processing
+- Outputs: vorticity fields, circulation vs time, documented research summary
+
 [Project page](projects/piv.md)  
 [Previous research summary (PDF)](pdfs/Previous%20Research%20Experience.pdf)  
 [USP proposal (PDF)](pdfs/USP%20Proposal.pdf)
