@@ -33,7 +33,7 @@ Quantify how adding a RANDALLfoil blade attachment alters surrounding flow struc
 ![Circulation vs time](../images/circulation_data.png)
 *Circulation computed from PIV-derived velocity fields using trapezoidal integration in MATLAB.*
 
-![Cylinder mounted to linear stage](../images/Cylinder mounted to linear stage.png)
+![Cylinder mounted to linear stage](../images/Cylinder%20mounted%20to%20linear%20stage.png)
 *Cylindrical rod mounted to a linear stage for controlled drag-force calibration experiments.*
 
 ## Force Sensor Validation
