@@ -3,7 +3,7 @@ Mechanical Engineering Student | Experimental Fluids (PIV & Force Measurement) |
 
 I build and test experimental hardware, then turn fluid and force measurements into clear plots and design decisions using PIV, instrumentation, and data analysis.
 
-**Core strengths:** PIV & flow visualization • MATLAB/Python analysis • Force/torque sensing • CAD & 3D printing • Experimental fixtures & calibration
+**Strengths:** PIV & flow visualization • MATLAB/Python analysis • Force/torque sensing • CAD & 3D printing • Experimental fixtures & calibration
 
 ## Projects
 
