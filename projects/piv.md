@@ -33,6 +33,10 @@ Quantify how adding a RANDALLfoil blade attachment changes the surrounding flow 
 ![Circulation vs time](../images/circulation_data.png)
 *Circulation computed from PIV-derived velocity fields using trapezoidal integration in MATLAB.*
 
+![Cylinder drag validation](../images/cylinder_graphs.png)
+*Measured drag force on a cylindrical rod versus velocity, compared against analytical predictions using literature drag coefficients.*
+
+
 ## Deliverables
 - [Previous research summary (PDF)](../pdfs/Previous%20Research%20Experience.pdf)
 - [USP proposal (PDF)](../pdfs/USP%20Proposal.pdf)
