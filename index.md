@@ -29,7 +29,7 @@ Designed and validated force-measurement experiments to quantify hydrodynamic lo
 [USP proposal (PDF)](pdfs/USP%20Proposal.pdf)
 
 ## Resume & Links
-[Resume (PDF)](pdfs/CalebYoung_Resume.pdf)  
+[Resume (PDF)](pdfs/Caleb.Young_Resume.pdf)  
 [GitHub](https://github.com/cyoung604)  
 [LinkedIn](https://www.linkedin.com/in/caleb-young-7583732b3)
 
