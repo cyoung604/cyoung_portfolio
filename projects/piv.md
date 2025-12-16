@@ -26,9 +26,6 @@ Quantify how adding a RANDALLfoil blade attachment alters surrounding flow struc
 ![Mini40 mount](../images/Mini40%20Force%20Sensor%20Mount.png)
 *Custom 3D-printed mount designed to interface the Mini40 sensor with submerged test hardware.*
 
-![Cylinder mounted to linear stage](../images/cylinder_linear_stage.png)
-*Cylindrical rod mounted to a linear stage for controlled drag-force calibration experiments.*
-
 ## Initial Flow Results
 ![Vorticity plots](../images/vorticityplots.png)
 *Instantaneous vorticity fields obtained from PIV measurements, highlighting coherent flow structures around the blade.*
@@ -36,8 +33,8 @@ Quantify how adding a RANDALLfoil blade attachment alters surrounding flow struc
 ![Circulation vs time](../images/circulation_data.png)
 *Circulation computed from PIV-derived velocity fields using trapezoidal integration in MATLAB.*
 
-![Cylinder mounted to linear stage](../images/cylinder_linear_stage.png)
-*Setup of cylinder on 1000mm linear stage where mini40 force sensor is mounted for testing.*
+![Cylinder mounted to linear stage](../images/Cylinder_mounted_to_linear_stage.png)
+*Cylindrical rod mounted to a linear stage for controlled drag-force calibration experiments.*
 
 ## Force Sensor Validation
 ![Cylinder drag validation](../images/cylinder_data.png)
