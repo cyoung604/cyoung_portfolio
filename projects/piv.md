@@ -28,6 +28,7 @@ Quantify how adding a RANDALLfoil blade attachment alters surrounding flow struc
 
 ## Initial Flow Results
 ![Vorticity plots](../images/vorticityplots.png)
+
 *Instantaneous vorticity fields obtained from PIV measurements, highlighting coherent flow structures around the blade.*
 
 ![Circulation vs time](../images/circulation_data.png)
