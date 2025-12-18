@@ -24,8 +24,8 @@ Designed and validated force-measurement experiments to quantify hydrodynamic lo
 - **Methods:** force/torque sensing (ATI Mini40), analytical drag modeling, experimental calibration, MATLAB data analysis  
 - **Outputs:** force-vs-velocity plots, calibration validation results, blade force comparisons
 
-[Project page](projects/piv.md)  
-[Project page](projects/force.md)  
+[PIV Project page](projects/piv.md)  
+[Force Project page](projects/force.md)  
 [Previous research summary (PDF)](pdfs/Previous%20Research%20Experience.pdf)  
 [USP proposal (PDF)](pdfs/USP%20Proposal.pdf)
 
