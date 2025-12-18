@@ -46,4 +46,4 @@ Quantify how adding a RANDALLfoil blade attachment alters surrounding flow struc
 - [USP proposal (PDF)](../pdfs/USP%20Proposal.pdf)
 
 ## Tools
-DaVis • MATLAB • SolidWorks • Fusion 360 • 3D printing (MakerBot Sketch)
+DaVis • MATLAB • 3D printing (MakerBot Sketch)
