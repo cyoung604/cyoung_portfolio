@@ -13,7 +13,14 @@ Quantify how adding a RANDALLfoil blade attachment alters surrounding flow struc
 - **Flow similarity:** Reynolds number Re ≈ 2.2 × 10⁴  
 - **Velocity scaling:** κ = u₍experiment₎ / u₍scaled₎ = 0.5 (selected due to facility constraints)  
 - **PIV measurement:** Mid-chord measurement plane illuminated with a 532 nm continuous-wave laser sheet; LaVision MX 2M-160 camera   
-- **Post-processing:** Velocity fields converted to vorticity, circulation computed from PIV-derived velocity using trapezoidal integration in MATLAB  
+- **Post-processing:** Velocity fields converted to vorticity, circulation computed from PIV-derived velocity using trapezoidal integration in MATLAB
+
+- ## Deliverables
+- [Previous research summary (PDF)](../pdfs/Previous%20Research%20Experience.pdf)  
+- [USP proposal (PDF)](../pdfs/USP%20Proposal.pdf)
+
+## Tools
+DaVis • MATLAB • 3D printing (MakerBot Sketch)
 
 ## Experimental Setup
 ![PIV setup](../images/PIV%20Setup.png)
@@ -40,9 +47,4 @@ Quantify how adding a RANDALLfoil blade attachment alters surrounding flow struc
 ![Cylinder drag validation](../images/cylinder_data.png)
 *Measured drag force on a cylindrical rod versus velocity (0–3 m/s), compared against analytical predictions using literature drag coefficients.*
 
-## Deliverables
-- [Previous research summary (PDF)](../pdfs/Previous%20Research%20Experience.pdf)  
-- [USP proposal (PDF)](../pdfs/USP%20Proposal.pdf)
 
-## Tools
-DaVis • MATLAB • 3D printing (MakerBot Sketch)
