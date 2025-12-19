@@ -9,12 +9,11 @@ Quantify how adding a RANDALLfoil blade attachment alters surrounding flow struc
 - MATLAB post-processing of velocity, vorticity, and circulation  
 
 ## Experimental Setup & Methods
-- **Model & facility:** 1:4 scale rowing paddle tested in a 24" × 24" × 24" quiescent water tank  
+- **Model:** 1:4 scale rowing paddle tested in a 24" × 24" × 24" quiescent water tank  
 - **Flow similarity:** Reynolds number Re ≈ 2.2 × 10⁴  
 - **Velocity scaling:** κ = u₍experiment₎ / u₍scaled₎ = 0.5 (selected due to facility constraints)  
-- **PIV measurement:** Mid-chord measurement plane illuminated with a 532 nm continuous-wave laser sheet; LaVision MX 2M-160 camera  
-- **Force/torque sensing:** ATI Mini40 6-axis force/torque sensor  
-- **Post-processing:** Velocity fields converted to vorticity; circulation computed from PIV-derived velocity using trapezoidal integration in MATLAB  
+- **PIV measurement:** Mid-chord measurement plane illuminated with a 532 nm continuous-wave laser sheet; LaVision MX 2M-160 camera   
+- **Post-processing:** Velocity fields converted to vorticity, circulation computed from PIV-derived velocity using trapezoidal integration in MATLAB  
 
 ## Experimental Setup
 ![PIV setup](../images/PIV%20Setup.png)
