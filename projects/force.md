@@ -6,7 +6,7 @@
 - **Flow similarity:** Reynolds number Re ≈ 2.2 × 10⁴  
 - **Velocity scaling:** κ = u₍experiment₎ / u₍scaled₎ = 0.5 (selected due to facility constraints)  
 - **Force/torque sensing:** ATI Mini40 6-axis force/torque sensor  
-- **Post-processing:** V
+- **Initial sensor setup:** Used MATLAB to confirm forces on cylindrical rod in tank
 
 - ## Deliverables
 - [Previous research summary (PDF)](../pdfs/Previous%20Research%20Experience.pdf)  
