@@ -7,6 +7,12 @@ Force sensor
 - **Force/torque sensing:** ATI Mini40 6-axis force/torque sensor  
 - **Post-processing:** V
 
+- ## Deliverables
+- [Previous research summary (PDF)](../pdfs/Previous%20Research%20Experience.pdf)  
+- [USP proposal (PDF)](../pdfs/USP%20Proposal.pdf)
+
+## Tools
+Python • Zaber • 3D printing (MakerBot Sketch)
 
 ![Force sensor mounted to blade](../images/Force%20Sensor%20mounted%20to%20blade.png)
 *ATI Mini40 force sensor integrated with the rowing blade assembly.*
@@ -26,5 +32,4 @@ Force sensor
 - [Previous research summary (PDF)](../pdfs/Previous%20Research%20Experience.pdf)  
 - [USP proposal (PDF)](../pdfs/USP%20Proposal.pdf)
 
-## Tools
-Python • Zaber • 3D printing (MakerBot Sketch)
+
