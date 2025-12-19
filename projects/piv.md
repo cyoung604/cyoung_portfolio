@@ -26,12 +26,6 @@ DaVis • MATLAB • 3D printing (MakerBot Sketch)
 ![PIV setup](../images/PIV%20Setup.png)
 *PIV experimental setup showing blade mounting, laser sheet alignment, and camera positioning.*
 
-![Force sensor mounted to blade](../images/Force%20Sensor%20mounted%20to%20blade.png)
-*ATI Mini40 force sensor integrated with the rowing blade assembly.*
-
-![Mini40 mount](../images/Mini40%20Force%20Sensor%20Mount.png)
-*Custom 3D-printed mount designed to interface the Mini40 sensor with submerged test hardware.*
-
 ## Initial Flow Results
 ![Vorticity plots](../images/vorticityplots.png)
 
@@ -39,9 +33,6 @@ DaVis • MATLAB • 3D printing (MakerBot Sketch)
 
 ![Circulation vs time](../images/circulation_data.png)
 *Circulation computed from PIV-derived velocity fields using trapezoidal integration in MATLAB.*
-
-![Cylinder mounted to linear stage](../images/Cylinder%20mounted%20to%20linear%20stage.png)
-*Cylindrical rod mounted to a linear stage for controlled drag-force calibration experiments.*
 
 ## Force Sensor Validation
 ![Cylinder drag validation](../images/cylinder_data.png)
