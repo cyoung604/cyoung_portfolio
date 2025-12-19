@@ -1,4 +1,12 @@
-f
+Force sensor 
+
+## Experimental Setup & Methods
+- **Model:** 1:4 scale rowing paddle tested in a 24" × 24" × 24" quiescent water tank  
+- **Flow similarity:** Reynolds number Re ≈ 2.2 × 10⁴  
+- **Velocity scaling:** κ = u₍experiment₎ / u₍scaled₎ = 0.5 (selected due to facility constraints)  
+- **Force/torque sensing:** ATI Mini40 6-axis force/torque sensor  
+- **Post-processing:** V
+
 
 ![Force sensor mounted to blade](../images/Force%20Sensor%20mounted%20to%20blade.png)
 *ATI Mini40 force sensor integrated with the rowing blade assembly.*
