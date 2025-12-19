@@ -1,4 +1,5 @@
-Force sensor 
+# Experimental Fluids Research: Force Calculations
+
 
 ## Experimental Setup & Methods
 - **Model:** 1:4 scale rowing paddle tested in a 24" × 24" × 24" quiescent water tank  
