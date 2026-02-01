@@ -3,9 +3,9 @@
 
 ## Initial Force Tests with Blade Attached
 
-![Tank setup – linear stage and submerged blade](../images/tank_setup.png)
+![Tank setup – linear stage and submerged blade](../images/tank_setup (1).png)
 
-![Tank setup](/images/tank_setup.png)
+
 
 
 
