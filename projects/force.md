@@ -29,10 +29,6 @@ Python • Zaber • 3D printing (MakerBot Sketch)
 ![Cylinder drag validation](../images/cylinder_data.png)
 *Measured drag force on a cylindrical rod versus velocity (0–3 m/s), compared against analytical predictions using literature drag coefficients.*
 
-## Initial Force Tests with blade attached
-![Tank setup](../images/Tank_setup.pdf)
-*Zaber setup with linear stages - testing LabView program with blade in water.*
-
 
 ## Deliverables
 - [Previous research summary (PDF)](../pdfs/Previous%20Research%20Experience.pdf)  
