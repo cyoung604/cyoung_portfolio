@@ -25,7 +25,8 @@ Designed and validated force-measurement experiments to quantify hydrodynamic lo
 - **Outputs:** force-vs-velocity plots, calibration validation results, blade force comparisons
 
 [PIV Project page](projects/piv.md)  
-[Force Project page](projects/force.md)  
+[Force Testing page](projects/force.md) 
+[Force Project page](projects/force_project.md) 
 [Previous research summary (PDF)](pdfs/Previous%20Research%20Experience.pdf)  
 [USP proposal (PDF)](pdfs/USP%20Proposal.pdf)
 
