@@ -26,6 +26,7 @@ Designed and validated force-measurement experiments to quantify hydrodynamic lo
 
 [PIV Project page](projects/piv.md)  
 [Force Testing page](projects/force.md) 
+
 [Force Project page](projects/force_project.md) 
 
 [Previous research summary (PDF)](pdfs/Previous%20Research%20Experience.pdf)  
